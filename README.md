@@ -3,13 +3,15 @@ Web app for Portfolio Management
 
 GPT Roadmap (Changes might be applied in the course of the development)
 
--> Full Stack: Front-end with React, back-end using Flask, and a database such as MySQL.
+Stock Portfolio Manager:
 
--> Cloud Integration: Host on AWS or Google Cloud. Utilize cloud-based data storage for historical stock data.
+->Full Stack: Front-end with React, back-end using Flask, and a database such as MySQL.
 
--> API Integration: Integrate with financial APIs to fetch real-time stock prices, news, and historical data.
+->Cloud Integration: Host on AWS or Google Cloud. Utilize cloud-based data storage for historical stock data.
 
--> Monetization: Charge users for advanced portfolio analytics and insights. Implement a freemium model.
+->API Integration: Integrate with financial APIs to fetch real-time stock prices, news, and historical data.
+
+->Monetization: Charge users for advanced portfolio analytics and insights. Implement a freemium model.
 
 Here's a road map that outlines the phases from the initial planning to the final deployment and maintenance of a Stock Portfolio Manager web app:
 
